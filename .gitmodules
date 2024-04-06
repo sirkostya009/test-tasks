@@ -1,0 +1,12 @@
+[submodule "test-task-nextjs"]
+	path = test-task-nextjs
+	url = https://github.com/sirkostya009/test-task-nextjs
+[submodule "javafx-test-task"]
+	path = javafx-test-task
+	url = https://github.com/sirkostya009/javafx-test-task
+[submodule "wow-another-test-task"]
+	path = wow-another-test-task
+	url = https://github.com/sirkostya009/wow-another-test-task
+[submodule "test-task"]
+	path = test-task
+	url = https://github.com/sirkostya009/test-task
