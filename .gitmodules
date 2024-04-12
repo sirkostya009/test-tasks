@@ -10,3 +10,6 @@
 [submodule "test-task"]
 	path = test-task
 	url = https://github.com/sirkostya009/test-task
+[submodule "plain-js-test-task"]
+	path = plain-js-test-task
+	url = https://github.com/sirkostya009/plain-js-test-task
