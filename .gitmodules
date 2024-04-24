@@ -16,3 +16,6 @@
 [submodule "date-sort-test-task"]
 	path = date-sort-test-task
 	url = https://github.com/sirkostya009/date-sort-test-task
+[submodule "superb-test-task"]
+	path = superb-test-task
+	url = https://github.com/sirkostya009/superb-test-task
