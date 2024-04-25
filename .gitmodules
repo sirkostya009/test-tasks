@@ -19,3 +19,6 @@
 [submodule "superb-test-task"]
 	path = superb-test-task
 	url = https://github.com/sirkostya009/superb-test-task
+[submodule "trusteeTestTask"]
+	path = trusteeTestTask
+	url = https://github.com/sirkostya009/trusteeTestTask
