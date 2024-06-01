@@ -25,3 +25,6 @@
 [submodule "decent-test-task"]
 	path = decent-test-task
 	url = https://github.com/sirkostya009/decent-test-task
+[submodule "shopTestTask"]
+	path = shopTestTask
+	url = https://github.com/sirkostya009/shopTestTask
