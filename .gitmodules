@@ -28,3 +28,6 @@
 [submodule "shopTestTask"]
 	path = shopTestTask
 	url = https://github.com/sirkostya009/shopTestTask
+[submodule "imageProcessingTestTask"]
+	path = imageProcessingTestTask
+	url = https://github.com/sirkostya009/imageProcessingTestTask
