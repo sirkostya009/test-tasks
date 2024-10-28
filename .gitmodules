@@ -31,3 +31,6 @@
 [submodule "imageProcessingTestTask"]
 	path = imageProcessingTestTask
 	url = https://github.com/sirkostya009/imageProcessingTestTask
+[submodule "weblium-test-task"]
+	path = weblium-test-task
+	url = https://github.com/sirkostya009/weblium-test-task
